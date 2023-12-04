@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" COTTON KING T-Shirts",
+        "price": 199.99,
+        "image": "img/products/p4.jpg"
+    },
+    {
+        "id": 2,
+        "name":" COTTON KING T-Shirts",
+        "price": 349.99,
+        "image": "img/products/p1.jpg"
+    },
+    {
+        "id": 3,
+        "name":" COTTON KING T-Shirts",
+        "price": 499.99,
+        "image": "img/products/p2.jpg"
+    },
+    {
+        "id": 4,
+        "name":" COTTON KING T-Shirts",
+        "price": 169.99,
+        "image": "img/products/p3.jpg"
+    },
+    {
+        "id": 5,
+        "name":" COTTON KING T-Shirts",
+        "price": 300,
+        "image": "img/products/p5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" COTTON KING T-Shirts",
+        "price": 249.99,
+        "image": "img/products/p6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" COTTON KING T-Shirts",
+        "price": 200,
+        "image": "img/products/p7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" COTTON KING T-Shirts",
+        "price": 200,
+        "image": "img/products/p8.jpg"
+    }
+
+]
